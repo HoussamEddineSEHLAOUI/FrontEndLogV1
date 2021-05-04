@@ -1,0 +1,21 @@
+
+
+.editZone{
+
+    display: flex;
+    justify-content:flex-end;
+}
+.bgcolor{
+    background-color: rgba(0, 245, 41, 0.623);
+}
+
+.forms{
+
+    text-align: left;
+}
+.label-profile{
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 15px;
+
+}

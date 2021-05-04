@@ -1,0 +1,85 @@
+.name{
+    margin-left: 20px;
+}
+.downold-zone{
+    background-color: rgba(138, 116, 122, 0.884);
+    height: 250px;
+    width: 100%;
+    text-align: center;
+}
+hr{
+    width: 30%;
+}
+.titre-note{
+
+    height: 140px;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: #fafafa;
+
+}
+
+.download{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #16a1e7;
+    margin: 10px;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    
+}
+.download a{
+    outline: 0;
+    color: #fafafa;
+    text-decoration: none;
+}
+
+form{
+    justify-content: center;
+    text-align: center;
+  }
+  .file-zone{
+    border-radius: 7px;
+    background-color: rgb(224, 230, 227);
+    height: 45px;
+    width:530px;
+    margin-left: 40%;
+    margin-right: 50%;
+    display: flex;
+    margin-top: 45px;
+  }
+  .inputeFile{
+    background-color: blue;
+    height: 100%;
+    text-align: center;
+    width: 100px;
+  
+  }
+  .btn-submit{
+    height: 80%;
+    width: 95px;
+    margin-left: 100px;
+    background-color: rgb(4, 192, 98);
+    border-radius: 7px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    margin-right: 7px;
+    color: #fff;
+    cursor: pointer;
+    border-color: #fff;
+  
+  }
+  .out{
+    border-radius: 7px;
+
+    height: 45px;
+    width:400px;
+    margin-left: 40%;
+    margin-right: 40%;
+    display: flex;
+    margin-top: 45px;
+    justify-content: center;
+    border-color: transparent;
+  }

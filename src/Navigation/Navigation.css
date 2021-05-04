@@ -1,0 +1,19 @@
+nav{
+  background-color: black;
+  width: 100%;
+}
+p{
+  color: aliceblue;
+  margin-right:'20px';
+}
+.padi{
+  background-color: aqua;
+}
+.logo{
+  height: 60px;
+  width: 60px;
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+
